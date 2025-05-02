@@ -1,5 +1,8 @@
 # AI 101
 
+**Goal**
+The goal is to get a primer on Machine Learning before I deep dive into understanding and practically use LLMs and build something with AI. The idea is to become familiar with the foundations and basics of AI - thus, machine learning - the very basics of how it works.
+
 ## Supervised vs Unsupervised Learning
 
 https://www.youtube.com/watch?v=W01tIRP_Rqs
@@ -24,6 +27,9 @@ Example algorithms
 Common types of models
 1. Linear regression - outputs a probability of something. eg: prediction of a stock price value, along with a probability
 2. Logistic regression -
+
+
+
 
 ## Unsupervised
 Here the data provided isn't labelled. The model automatically discovers patterns. This type of models are used when you want to cluster data into different auto-defined buckets (not pre-defined)
