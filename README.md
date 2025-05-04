@@ -48,6 +48,14 @@ Any input to the model is usually denoted by `x` or also called as `feature` or 
 ![image](https://github.com/user-attachments/assets/5e5b1f2d-bd12-4528-879d-30ec5874a26f)
 
 
+## Cost Functions
+
+The cost function is the main function that will help generate the model. Think of this as the unit test-case for any function, that contains the cases that is required to test the model.
+
+## Training
+
+The training actually occurs in the automation of the algorithm that continuously searches for the most optimum values `w` and `b` such that the cost is almost `0`. The algorithm used here is the **gradient descent**. 
+
 ---
 
 ## Resources
